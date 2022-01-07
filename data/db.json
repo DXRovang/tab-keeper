@@ -1,0 +1,19 @@
+{
+  "sites": [
+    {
+      "body": "www.cnn.com",
+      "id": 1,
+      "author": "me"
+    },
+    {
+      "body": "www.google.com",
+      "id": 2,
+      "author": "you"
+    },
+    {
+      "body": "www.yahoo.com",
+      "id": 3,
+      "author": "me"
+    }
+  ]
+}
