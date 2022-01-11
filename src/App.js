@@ -3,8 +3,8 @@ import Navbar from './Navbar'
 
 function App() {
   return (
-    <div>
-      Hello
+    <div className="hello">
+      Hello (in App.js)
       <Navbar/>
       <Sites />
     </div>
